@@ -34,5 +34,4 @@ Advanced Models (if used): xgboost, lightgbm
 
 Web Framework (if deployed): Flask / Streamlit
 
-Deployment Platform (if deployed): [Heroku / AWS / Render / etc.]
 
